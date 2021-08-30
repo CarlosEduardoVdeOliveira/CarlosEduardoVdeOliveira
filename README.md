@@ -17,4 +17,4 @@
   <img align="right" alt="Rafa-yoda" src="http://pa1.narvii.com/6447/7f730247994d254eeb3c8d7dbd7b863c6f86fe89_00.gif">
 </div>
 
-
+ ![Snake animation](https://github.com/CarlosEduardoVdeOliveira/CarlosEduardoVdeOliveira/blob/output/github-contribution-grid-snake.svg)
