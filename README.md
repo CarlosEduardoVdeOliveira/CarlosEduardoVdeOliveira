@@ -1,5 +1,4 @@
-## Eu sou o Carlos Eduardo 🤓
-### Olá, Mundo! 👋
+## Olá, eu sou o Carlos Eduardo 👋
 
 - 📚 Atualmente apenas estudando
 
