@@ -5,7 +5,8 @@
 <div>
   
   <a href="https://github.com/CarlosEduardoVdeOliveira">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoVdeOliveira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoVdeOliveira&layout=compact&langs_count=7&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoVdeOliveira&layout=compact&langs_count=7&theme=algolia"/>
+    </div>
 
   
 [![Instagram Badge](https://img.shields.io/badge/-@carlos_eduardo_1_1-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/carlos_eduardo_1_1/)](https://www.instagram.com/carlos_eduardo_1_1/)
