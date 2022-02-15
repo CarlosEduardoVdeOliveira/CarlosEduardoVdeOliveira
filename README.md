@@ -1,6 +1,7 @@
 ## Olá, eu sou o Carlos Eduardo 👋
 
-- 📚 Atualmente apenas estudando
+- 📚 Atualmente estudando
+- 💻 Técnico Informática
 
 <div>
   
