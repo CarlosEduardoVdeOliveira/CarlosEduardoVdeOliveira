@@ -1,6 +1,9 @@
 ## Olá, eu sou o Carlos Eduardo 👋
 
 - 📚 Atualmente estudando
+  - Análise e Desenv. de Sistemas
+  - Reactjs
+  - Nodejs
 - 💻 Técnico Informática
 
 <div>
