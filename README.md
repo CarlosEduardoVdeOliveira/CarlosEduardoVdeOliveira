@@ -4,6 +4,7 @@
   - Análise e Desenv. de Sistemas (ADS)
   - Reactjs
   - Nodejs
+  - Typescript
 - 💻 Técnico em Informática
 
 <div>
