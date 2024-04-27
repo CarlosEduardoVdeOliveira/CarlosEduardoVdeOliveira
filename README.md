@@ -5,6 +5,7 @@
   - Reactjs
   - Nodejs
   - Typescript
+  - Java
 - 💻 Técnico em Informática
 
 <div>
