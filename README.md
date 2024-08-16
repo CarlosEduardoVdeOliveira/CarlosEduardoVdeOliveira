@@ -10,7 +10,7 @@
 
     <div>
   
-     <a href="https://github.com/CarlosEduardoVdeOliveira">
+     
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoVdeOliveira&layout=compact&langs_count=7&theme=algolia"/>
      <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoVdeOliveira&layout=compact&langs_count=7&theme=algolia" /> 
     </div>
