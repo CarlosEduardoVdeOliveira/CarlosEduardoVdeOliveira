@@ -23,9 +23,9 @@ Atualmente trabalho como **Técnico em manutenção de computadores**, mas tamb�
 ---
 
 ## 📫 Como me encontrar
-- LinkedIn: [seu link aqui]  
-- Email: [seu email aqui]  
-- GitHub: [github.com/seuusuario](https://github.com/CarlosEduardoVdeOliveira)  
+- LinkedIn: [https://www.linkedin.com/in/carloseduardodevfull]  
+- Email: [vieiradeoliveira70@gmail.com]  
+- GitHub: [https://www.github.com/CarlosEduardoVdeOliveira] 
 
 ---
 ⭐️ Sempre aberto a colaborações em projetos open-source e novas oportunidades!
