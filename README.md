@@ -25,18 +25,17 @@ Atualmente trabalho como **Técnico em manutenção de computadores**, mas tamb�
 ## 📫 Como me encontrar
 - LinkedIn: [seu link aqui]  
 - Email: [seu email aqui]  
-- GitHub: [github.com/seuusuario](https://github.com/seuusuario)  
+- GitHub: [github.com/seuusuario](https://github.com/CarlosEduardoVdeOliveira)  
 
 ---
 ⭐️ Sempre aberto a colaborações em projetos open-source e novas oportunidades!
+<br>
 
-
-    <div>
-  
-     
+   <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoVdeOliveira&layout=compact&langs_count=7&theme=algolia"/>
      <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoVdeOliveira&layout=compact&langs_count=7&theme=algolia" /> 
     </div>
+    
   <br>
   
 [![Instagram Badge](https://img.shields.io/badge/-@carlos_eduardo_1_1-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/carlos_eduardo_1_1/)](https://www.instagram.com/carlos_eduardo_1_1/)
