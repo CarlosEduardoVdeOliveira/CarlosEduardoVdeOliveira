@@ -1,12 +1,35 @@
-## Olá, eu sou o Carlos Eduardo 👋
+# 👋 Olá, eu sou o Carlos Eduardo  
 
-- 📚 Estudando
-  - Análise e Desenv. de Sistemas (ADS)
-  - Reactjs
-  - Nodejs
-  - Typescript
-  - Java
-- 💻 Técnico em Informática
+💻 Técnico em Informática | 🎓 Análise e Desenvolvimento de Sistemas (ADS)  
+
+Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.  
+Atualmente trabalho como **Técnico em manutenção de computadores**, mas também desenvolvo projetos na área de programação e estou sempre em busca de aprender novas ferramentas e boas práticas.  
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+- **Front-end:** React.js, TypeScript  
+- **Back-end:** Node.js, Java  
+- **Banco de Dados:** (aqui você pode adicionar: MySQL, PostgreSQL, SQLite, etc. se tiver experiência)  
+- **Outros:** Git, Linux, manutenção e suporte em hardware  
+
+---
+
+## 📌 Sobre mim
+- 🎯 Interesse em desenvolvimento fullstack e soluções tecnológicas inovadoras  
+- 📚 Sempre estudando novas stacks e aprofundando em boas práticas de código  
+- 🛠 Experiência prática com manutenção de computadores e suporte técnico  
+
+---
+
+## 📫 Como me encontrar
+- LinkedIn: [seu link aqui]  
+- Email: [seu email aqui]  
+- GitHub: [github.com/seuusuario](https://github.com/seuusuario)  
+
+---
+⭐️ Sempre aberto a colaborações em projetos open-source e novas oportunidades!
+
 
     <div>
   
