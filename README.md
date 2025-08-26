@@ -20,12 +20,6 @@ Atualmente trabalho como **Técnico em manutenção de computadores**, mas tamb�
 - 📚 Sempre estudando novas stacks e aprofundando em boas práticas de código  
 - 🛠 Experiência prática com manutenção de computadores e suporte técnico  
 
----
-
-## 📫 Como me encontrar
-- LinkedIn: [https://www.linkedin.com/in/carloseduardodevfull]  
-- Email: [vieiradeoliveira70@gmail.com]  
-- GitHub: [https://www.github.com/CarlosEduardoVdeOliveira] 
 
 ---
 ⭐️ Sempre aberto a colaborações em projetos open-source e novas oportunidades!
